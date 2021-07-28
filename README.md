@@ -1,7 +1,7 @@
 # Preparing For Amazon SDE Role
 ### I will be revising the entire data structure from geeks of geek.
 
-- Array
+- [Array](https://github.com/tech-vin/Data-Structure/blob/master/Array.md)
 - Linked List
 - Stack
 - Queue
